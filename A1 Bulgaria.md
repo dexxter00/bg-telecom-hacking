@@ -47,7 +47,7 @@ flash set HW_HWVER 15AD.A
 flash set OMCI_SW_VER1 V5R019C10S270
 flash set OMCI_SW_VER2 V5R019C10S270
 flash set OMCI_FAKE_OK 1
-flash set flash set OMCI_OLT_MODE 21
+flash set OMCI_OLT_MODE 21
 flash set HW_CWMP_MANUFACTURER 'Huawei Technologies Co., Ltd'
 flash set OMCI_TM_OPT 1
 reboot

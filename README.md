@@ -13,7 +13,7 @@ Some ISPs may give you permissions to access this equipment, but most of them wo
 For some of us, it's important to have full control over the equipment that sits in our house. For others, physical space or energy consumption is the key.
 
 ## solution !?
-Solution to this problem consists of gathering some data from provider's equipment, then transferring it to another device without begging your ISP for help. In most cases you will need at least bisiness-grade equipment, like for example Mikrotik.
+Solution to this problem consists of gathering some data from provider's equipment, then transferring it to another device without begging your ISP for help. In most cases, you will need at least business-grade equipment, like for example Mikrotik.
 
 For now, only solution I have developed is for 
 **A1 Bulgaria** GPON Service.
